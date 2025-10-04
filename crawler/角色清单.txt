@@ -1,0 +1,25 @@
+# 星穹铁道角色清单 - 10个主要角色
+
+角色标签清单 (Danbooru格式):
+1. dan_heng_(honkai:_star_rail) - 丹恒
+2. march_7th_(honkai:_star_rail) - 三月七  
+3. himeko_(honkai:_star_rail) - 姬子
+4. welt_(honkai:_star_rail) - 瓦尔特
+5. bronya_(honkai:_star_rail) - 布洛妮娅
+6. seele_(honkai:_star_rail) - 希儿
+7. clara_(honkai:_star_rail) - 克拉拉
+8. kafka_(honkai:_star_rail) - 卡芙卡
+9. silver_wolf_(honkai:_star_rail) - 银狼
+10. blade_(honkai:_star_rail) - 刃
+
+使用方法:
+1. 运行 batch_crawl.py
+2. 选择爬取模式 (带AI处理/不使用AI处理)
+3. 设置每个角色的图片数量
+4. 选择要爬取的角色 (全部或指定)
+5. 图片将保存到 F:/honkai_star_rail_characters/角色名_dataset/ 目录
+
+注意事项:
+- 确保F盘有足够空间
+- 带AI处理会更准确但更慢
+- 不使用AI处理会更快但可能包含不相关图片
